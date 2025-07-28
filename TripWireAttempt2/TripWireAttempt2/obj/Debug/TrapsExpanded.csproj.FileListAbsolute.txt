@@ -1,0 +1,7 @@
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\TripWireMod2\Assemblies\TripWireAttempt2.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\TripWireMod2\Assemblies\TripWireAttempt2.pdb
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireAttempt2\TripWireAttempt2\obj\Debug\TrapsExpanded.csproj.AssemblyReference.cache
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireAttempt2\TripWireAttempt2\obj\Debug\TrapsExpanded.csproj.CoreCompileInputs.cache
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireAttempt2\TripWireAttempt2\obj\Debug\TrapsExp.F20F0978.Up2Date
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireAttempt2\TripWireAttempt2\obj\Debug\TripWireAttempt2.dll
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireAttempt2\TripWireAttempt2\obj\Debug\TripWireAttempt2.pdb

@@ -1,14 +1,9 @@
 ﻿using HarmonyLib;
 using RimWorld;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
 using Verse;
 
-namespace TripWireAttempt2
+namespace TrapsExpanded
 {
     [HarmonyPatch(typeof(OverlayDrawer), nameof(OverlayDrawer.DrawAllOverlays))]
     public static class OverlayPatch
@@ -20,7 +15,7 @@ namespace TripWireAttempt2
             Map map = Find.CurrentMap;
             if (map == null) return;
 
-            var def = ThingDef.Named("TripWire");
+            var def = ThingDef.Named("TrapsExpanded");
             var ext = def.GetModExtension<ModExtension_TransmitterOverlay>();
             if (ext == null || string.IsNullOrEmpty(ext.transmitterAtlas))
             {
@@ -30,7 +25,7 @@ namespace TripWireAttempt2
             Texture2D tex = ContentFinder<Texture2D>.Get(ext.transmitterAtlas, false);
             if (tex == null)
             {
-                Log.Warning("[TripWire] Could not load atlas texture.");
+                Log.Warning("[TrapsExpanded] Could not load atlas texture.");
                 return;
             }
 
@@ -43,7 +38,7 @@ namespace TripWireAttempt2
 
             foreach (Thing t in map.listerThings.AllThings)
             {
-                if (t.def.defName != "TripWire" && !IsIED(t.def)) continue;
+                if (t.def.defName != "TrapsExpanded" && !IsIED(t.def)) continue;
                 {
                     IntVec3 pos = t.Position;
 
@@ -76,13 +71,12 @@ namespace TripWireAttempt2
             var things = map.thingGrid.ThingsListAt(pos);
             foreach (Thing t in things)
             {
-                if (t.def.defName == "TripWire")
+                if (t.def.defName == "TrapsExpanded")
                 {
                     return true;
                 }
                 if (IsIED(t.def))
                 {
-                    Log.Message($"[TripWire] IED detected: {t.def.defName} at position {pos}");
                     return true;
                 }
             }
@@ -109,7 +103,6 @@ namespace TripWireAttempt2
             // Check if def inherits TrapIEDBase
             if (def.defName.StartsWith("TrapIED_"))
             {
-                Log.Message("IED Detected by Class methiod IsIED");
                 return true;
             }
             return false;
@@ -150,7 +143,7 @@ namespace TripWireAttempt2
             if (designator is Designator_Build build)
             {
                 string defName = build.PlacingDef?.defName;
-                return defName == "TripWire" || defName?.StartsWith("TrapIED_") == true;
+                return defName == "TrapsExpanded" || defName?.StartsWith("TrapIED_") == true;
 
             }
             return false;

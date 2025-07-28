@@ -1,14 +1,14 @@
 ﻿using HarmonyLib;
 using Verse;
 
-namespace TripWireAttempt2
+namespace TrapsExpanded
 {
     
         public class ModInitializer : Mod
         {
             public ModInitializer(ModContentPack content) : base(content)
             {
-                var harmony = new Harmony("MPCatcher.TripWire");
+                var harmony = new Harmony("MPCatcher.TrapsExpanded");
                 harmony.PatchAll();
             }
         }

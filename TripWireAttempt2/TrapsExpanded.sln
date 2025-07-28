@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36301.6 d17.14
+VisualStudioVersion = 17.14.36301.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripWireAttempt2", "TripWireAttempt2\TripWireAttempt2.csproj", "{BF1AC4FF-A925-4611-988A-7938501F2263}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapsExpanded", "TripWireAttempt2\TrapsExpanded.csproj", "{BF1AC4FF-A925-4611-988A-7938501F2263}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

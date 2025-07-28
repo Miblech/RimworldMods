@@ -53,10 +53,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ModExtension_TransmitterOverlay.cs" />
-    <Compile Include="OverlayPatch.cs" />
+    <Compile Include="TripWire\ModExtension_TransmitterOverlay.cs" />
+    <Compile Include="TripWire\OverlayPatch.cs" />
+    <Compile Include="TripWire\Patch_CanPlaceBlueprintAt.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TripWireMod.cs" />
+    <Compile Include="TripWire\TripWireMod.cs" />
+    <Compile Include="TripWire\Building_TrapTriggerer.cs" />
+    <Compile Include="TripWire\TripWireTriggerRecieved.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
