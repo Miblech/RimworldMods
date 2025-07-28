@@ -1,0 +1,7 @@
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TrapsExpanded\TrapsExpanded\obj\Debug\TrapsExpanded.csproj.AssemblyReference.cache
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TrapsExpanded\TrapsExpanded\obj\Debug\TrapsExpanded.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\TrapsExpanded\Assemblies\TrapsExpanded.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\TrapsExpanded\Assemblies\TrapsExpanded.pdb
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TrapsExpanded\TrapsExpanded\obj\Debug\TrapsExp.F20F0978.Up2Date
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TrapsExpanded\TrapsExpanded\obj\Debug\TrapsExpanded.dll
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TrapsExpanded\TrapsExpanded\obj\Debug\TrapsExpanded.pdb

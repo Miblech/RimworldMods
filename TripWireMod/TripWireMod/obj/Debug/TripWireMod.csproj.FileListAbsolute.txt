@@ -1,0 +1,7 @@
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireMod\TripWireMod\obj\Debug\TripWireMod.csproj.AssemblyReference.cache
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireMod\TripWireMod\obj\Debug\TripWireMod.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\TripWireMod\Assemblies\TripWireMod.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\TripWireMod\Assemblies\TripWireMod.pdb
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireMod\TripWireMod\obj\Debug\TripWire.4D2967F5.Up2Date
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireMod\TripWireMod\obj\Debug\TripWireMod.dll
+C:\Users\nombr\OneDrive\Escritorio\RimworldMods\TripWireMod\TripWireMod\obj\Debug\TripWireMod.pdb

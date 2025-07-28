@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Gaussian Pawn Ages</name>
+    <author>MPCatcher</author>
+    <url>https://github.com/Miblech/ConfigurableComponentsAndSteel</url>
+    <packageId>mpcatcher.gaussianpawnage</packageId>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+
+    <description>Changes pawn spawn ages to follow a normal distribution centered around 30 years, 
+    so most pawns spawn between 20 and 40 years old. No longer will you be raided by geriatric old pawns.</description>
+</ModMetaData>

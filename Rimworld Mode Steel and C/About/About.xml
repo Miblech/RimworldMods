@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Adjustable Mining Yield</name>
+    <author>MPCatcher</author>
+    <url>https://github.com/Miblech/ConfigurableComponentsAndSteel</url>
+    <packageId>mpcatcher.adjustableminingyield</packageId>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	<modClasses>
+		<li>AdjustableMiningYield.AdjustableMiningYieldMod</li>
+	</modClasses>
+
+    <description>Sliders to adjust both Steel and Components yield.</description>
+</ModMetaData>

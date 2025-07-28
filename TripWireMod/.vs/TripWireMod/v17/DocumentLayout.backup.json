@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\sectionlayer_securitygrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\sectionlayer_securitygrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\mapcomponent_tripwire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\mapcomponent_tripwire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\tripwiretrapdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\tripwiretrapdefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\tripwirenetdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\tripwirenetdef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\custommapmeshflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\custommapmeshflags.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\building_tripwire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\building_tripwire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\comptripwire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\comptripwire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\comptripwireconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\comptripwireconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\comptripwiretransmitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|solutionrelative:tripwiremod\\comptripwiretransmitter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TripWireTrap||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A49B6836-A926-4411-8DF6-15D84CFC91BF}|TripWireMod\\TripWireTrap.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwiremod\\tripwiremod\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|a54ad834-9219-4aa6-b589-607af21c3e26"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomMapMeshFlags.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CustomMapMeshFlags.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\CustomMapMeshFlags.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CustomMapMeshFlags.cs",
+              "RelativeToolTip": "TripWireMod\\CustomMapMeshFlags.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:13:16.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompTripWire.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CompTripWire.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\CompTripWire.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CompTripWire.cs",
+              "RelativeToolTip": "TripWireMod\\CompTripWire.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:13:59.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HarmonyPatches.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\HarmonyPatches.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\HarmonyPatches.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\HarmonyPatches.cs",
+              "RelativeToolTip": "TripWireMod\\HarmonyPatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:14:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Building_TripWire.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\Building_TripWire.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\Building_TripWire.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\Building_TripWire.cs",
+              "RelativeToolTip": "TripWireMod\\Building_TripWire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:13:40.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapComponent_TripWire.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\MapComponent_TripWire.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\MapComponent_TripWire.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\MapComponent_TripWire.cs",
+              "RelativeToolTip": "TripWireMod\\MapComponent_TripWire.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:14:34.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModEntry.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\ModEntry.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\ModEntry.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\ModEntry.cs",
+              "RelativeToolTip": "TripWireMod\\ModEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:13:07.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SectionLayer_SecurityGrid.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\SectionLayer_SecurityGrid.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\SectionLayer_SecurityGrid.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\SectionLayer_SecurityGrid.cs",
+              "RelativeToolTip": "TripWireMod\\SectionLayer_SecurityGrid.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:14:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TripWireNetDef.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\TripWireNetDef.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\TripWireNetDef.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\TripWireNetDef.cs",
+              "RelativeToolTip": "TripWireMod\\TripWireNetDef.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:13:32.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TripWireTrapDefOf.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\TripWireTrapDefOf.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\TripWireTrapDefOf.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\TripWireTrapDefOf.cs",
+              "RelativeToolTip": "TripWireMod\\TripWireTrapDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:44:45.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CompTripWireConnector.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CompTripWireConnector.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\CompTripWireConnector.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CompTripWireConnector.cs",
+              "RelativeToolTip": "TripWireMod\\CompTripWireConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:14:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CompTripWireTransmitter.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CompTripWireTransmitter.cs",
+              "RelativeDocumentMoniker": "TripWireMod\\CompTripWireTransmitter.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\CompTripWireTransmitter.cs",
+              "RelativeToolTip": "TripWireMod\\CompTripWireTransmitter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:14:23.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TripWireTrap",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\TripWireTrap.csproj",
+              "RelativeDocumentMoniker": "TripWireMod\\TripWireTrap.csproj",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireMod\\TripWireMod\\TripWireTrap.csproj",
+              "RelativeToolTip": "TripWireMod\\TripWireTrap.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-23T20:18:06.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
