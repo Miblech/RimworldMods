@@ -7,24 +7,17 @@ namespace TrapsExpanded
     public class Building_TrapTriggerer : Building_Trap
     {
 
-        static Building_TrapTriggerer()
-        {
-            Log.Message("[TrapsExpanded] Building_TrapTriggerer class loaded!");
-        }
-
         protected override void Tick()
         {
             base.Tick();
         }
         protected override void SpringSub(Pawn p)
         {
-            Log.Message("[TrapsExpanded] SpringSub triggered by: " + p.Name);
             this.OnTrapTriggered(p);
         }
 
         protected virtual void OnTrapTriggered(Pawn p)
         {
-            Log.Message("[TrapsExpanded] OnTrapTriggered method triggered by: " + p.LabelShort);
             TriggerConnectedIEDs(this.Position, this.Map, p);
         }
 
@@ -44,7 +37,6 @@ namespace TrapsExpanded
                 {
                     if (IsIED(t.def))
                     {
-                        Log.Message($"[TrapsExpanded] Triggering IED at {t.Position}");
                         var explosive = t.TryGetComp<CompExplosive>();
 
                         if (explosive != null && !explosive.wickStarted)
@@ -74,7 +66,7 @@ namespace TrapsExpanded
             var things = map.thingGrid.ThingsListAt(pos);
             foreach (Thing t in things)
             {
-                if (t.def.defName == "TrapsExpanded" || IsIED(t.def))
+                if (t.def.defName == "TripWire" || IsIED(t.def))
                     return true;
             }
             return false;

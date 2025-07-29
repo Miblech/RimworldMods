@@ -15,7 +15,7 @@ namespace TrapsExpanded
             Map map = Find.CurrentMap;
             if (map == null) return;
 
-            var def = ThingDef.Named("TrapsExpanded");
+            var def = ThingDef.Named("TripWire");
             var ext = def.GetModExtension<ModExtension_TransmitterOverlay>();
             if (ext == null || string.IsNullOrEmpty(ext.transmitterAtlas))
             {
@@ -25,7 +25,7 @@ namespace TrapsExpanded
             Texture2D tex = ContentFinder<Texture2D>.Get(ext.transmitterAtlas, false);
             if (tex == null)
             {
-                Log.Warning("[TrapsExpanded] Could not load atlas texture.");
+                Log.Warning("[TripWire] Could not load atlas texture.");
                 return;
             }
 
@@ -38,7 +38,7 @@ namespace TrapsExpanded
 
             foreach (Thing t in map.listerThings.AllThings)
             {
-                if (t.def.defName != "TrapsExpanded" && !IsIED(t.def)) continue;
+                if (t.def.defName != "TripWire" && !IsIED(t.def)) continue;
                 {
                     IntVec3 pos = t.Position;
 
@@ -71,7 +71,7 @@ namespace TrapsExpanded
             var things = map.thingGrid.ThingsListAt(pos);
             foreach (Thing t in things)
             {
-                if (t.def.defName == "TrapsExpanded")
+                if (t.def.defName == "TripWire")
                 {
                     return true;
                 }
@@ -143,7 +143,7 @@ namespace TrapsExpanded
             if (designator is Designator_Build build)
             {
                 string defName = build.PlacingDef?.defName;
-                return defName == "TrapsExpanded" || defName?.StartsWith("TrapIED_") == true;
+                return defName == "TripWire" || defName?.StartsWith("TrapIED_") == true;
 
             }
             return false;

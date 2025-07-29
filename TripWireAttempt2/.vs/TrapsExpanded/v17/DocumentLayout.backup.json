@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\cartridgetrap\\building_cartridgetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\cartridgetrap\\building_cartridgetrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\tripwire\\building_traptriggerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\tripwire\\building_traptriggerer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\tripwire\\modextension_transmitteroverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\tripwire\\modextension_transmitteroverlay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\tripwire\\overlaypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\tripwire\\overlaypatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\tripwire\\patch_canplaceblueprintat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\tripwire\\patch_canplaceblueprintat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\tripwire\\tripwiremod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\tripwire\\tripwiremod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\tripwireattempt2\\tripwire\\tripwiretriggerrecieved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\tripwire\\tripwiretriggerrecieved.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|c:\\users\\nombr\\onedrive\\escritorio\\rimworldmods\\tripwireattempt2\\tripwireattempt2\\rocktraps\\building_bouldertrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1AC4FF-A925-4611-988A-7938501F2263}|TripWireAttempt2\\TrapsExpanded.csproj|solutionrelative:tripwireattempt2\\rocktraps\\building_bouldertrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +51,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Building_BoulderTrap.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\RockTraps\\Building_BoulderTrap.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\RockTraps\\Building_BoulderTrap.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\RockTraps\\Building_BoulderTrap.cs",
+              "RelativeToolTip": "TripWireAttempt2\\RockTraps\\Building_BoulderTrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T18:29:09.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripWireTriggerRecieved.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\TripWireTriggerRecieved.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\TripWire\\TripWireTriggerRecieved.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\TripWireTriggerRecieved.cs",
+              "RelativeToolTip": "TripWireAttempt2\\TripWire\\TripWireTriggerRecieved.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:48:50.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TripWireMod.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\TripWireMod.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\TripWire\\TripWireMod.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\TripWireMod.cs",
+              "RelativeToolTip": "TripWireAttempt2\\TripWire\\TripWireMod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:48:48.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patch_CanPlaceBlueprintAt.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\Patch_CanPlaceBlueprintAt.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\TripWire\\Patch_CanPlaceBlueprintAt.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\Patch_CanPlaceBlueprintAt.cs",
+              "RelativeToolTip": "TripWireAttempt2\\TripWire\\Patch_CanPlaceBlueprintAt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:48:41.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OverlayPatch.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\OverlayPatch.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\TripWire\\OverlayPatch.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\OverlayPatch.cs",
+              "RelativeToolTip": "TripWireAttempt2\\TripWire\\OverlayPatch.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:48:34.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModExtension_TransmitterOverlay.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\ModExtension_TransmitterOverlay.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\TripWire\\ModExtension_TransmitterOverlay.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\ModExtension_TransmitterOverlay.cs",
+              "RelativeToolTip": "TripWireAttempt2\\TripWire\\ModExtension_TransmitterOverlay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:48:32.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Building_TrapTriggerer.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\Building_TrapTriggerer.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\TripWire\\Building_TrapTriggerer.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\TripWire\\Building_TrapTriggerer.cs",
+              "RelativeToolTip": "TripWireAttempt2\\TripWire\\Building_TrapTriggerer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:48:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Building_CartridgeTrap.cs",
+              "DocumentMoniker": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\CartridgeTrap\\Building_CartridgeTrap.cs",
+              "RelativeDocumentMoniker": "TripWireAttempt2\\CartridgeTrap\\Building_CartridgeTrap.cs",
+              "ToolTip": "C:\\Users\\nombr\\OneDrive\\Escritorio\\RimworldMods\\TripWireAttempt2\\TripWireAttempt2\\CartridgeTrap\\Building_CartridgeTrap.cs",
+              "RelativeToolTip": "TripWireAttempt2\\CartridgeTrap\\Building_CartridgeTrap.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T17:41:16.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",

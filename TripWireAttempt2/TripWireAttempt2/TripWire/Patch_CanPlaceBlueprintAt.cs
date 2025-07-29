@@ -23,7 +23,7 @@ namespace TrapsExpanded
         {
             if (!__result.Accepted) return;
 
-            if (entDef.defName != "TrapsExpanded") return;
+            if (entDef.defName != "TripWire") return;
 
             var things = center.GetThingList(map);
             foreach (Thing t in things)
