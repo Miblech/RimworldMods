@@ -1,14 +1,9 @@
 ﻿using HarmonyLib;
 using RimWorld;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
 using Verse;
 
-namespace TripWireAttempt2
+namespace TrapsExpanded
 {
     [HarmonyPatch(typeof(OverlayDrawer), nameof(OverlayDrawer.DrawAllOverlays))]
     public static class OverlayPatch
@@ -41,29 +36,32 @@ namespace TripWireAttempt2
             int tilesX = tex.width / tileSize;
             int tilesY = tex.height / tileSize;
 
-            foreach (Thing t in map.listerThings.ThingsOfDef(def))
+            foreach (Thing t in map.listerThings.AllThings)
             {
-                IntVec3 pos = t.Position;
+                if (t.def.defName != "TripWire" && !IsIED(t.def)) continue;
+                {
+                    IntVec3 pos = t.Position;
 
-                // Check connections
-                bool up = HasTripWireAt(pos + IntVec3.North, map);
-                bool down = HasTripWireAt(pos + IntVec3.South, map);
-                bool left = HasTripWireAt(pos + IntVec3.West, map);
-                bool right = HasTripWireAt(pos + IntVec3.East, map);
+                    // Check connections
+                    bool up = HasTripWireAt(pos + IntVec3.North, map);
+                    bool down = HasTripWireAt(pos + IntVec3.South, map);
+                    bool left = HasTripWireAt(pos + IntVec3.West, map);
+                    bool right = HasTripWireAt(pos + IntVec3.East, map);
 
-                (int tileX, int tileY) = GetTileIndex(up, down, left, right);
+                    (int tileX, int tileY) = GetTileIndex(up, down, left, right);
 
-                Vector2 uvScale = new Vector2(1f / tilesX, 1f / tilesY);
-                int flippedY = (tilesY - 1) - tileY; // flip Y because UV origin is bottom-left
-                Vector2 uvOffset = new Vector2(tileX * uvScale.x, flippedY * uvScale.y);
+                    Vector2 uvScale = new Vector2(1f / tilesX, 1f / tilesY);
+                    int flippedY = (tilesY - 1) - tileY; // flip Y because UV origin is bottom-left
+                    Vector2 uvOffset = new Vector2(tileX * uvScale.x, flippedY * uvScale.y);
 
-                // Clone material to set UV per tile
-                Material mat = new Material(baseMat);
-                mat.mainTextureScale = uvScale;
-                mat.mainTextureOffset = uvOffset;
+                    // Clone material to set UV per tile
+                    Material mat = new Material(baseMat);
+                    mat.mainTextureScale = uvScale;
+                    mat.mainTextureOffset = uvOffset;
 
-                Vector3 center = pos.ToVector3ShiftedWithAltitude(AltitudeLayer.MetaOverlays);
-                Graphics.DrawMesh(MeshPool.plane10, center, Quaternion.identity, mat, 0);
+                    Vector3 center = pos.ToVector3ShiftedWithAltitude(AltitudeLayer.MetaOverlays);
+                    Graphics.DrawMesh(MeshPool.plane10, center, Quaternion.identity, mat, 0);
+                }
             }
         }
 
@@ -71,7 +69,43 @@ namespace TripWireAttempt2
         {
             if (!pos.InBounds(map)) return false;
             var things = map.thingGrid.ThingsListAt(pos);
-            return things.Exists(t => t.def.defName == "TripWire");
+            foreach (Thing t in things)
+            {
+                if (t.def.defName == "TripWire")
+                {
+                    return true;
+                }
+                if (IsIED(t.def))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        // In case overlay doesn't read IEDs correctly.
+        /* static bool hasIEDAt (IntVec3 pos, Map map)
+        {
+            if (!pos.InBounds(map)) return false;
+            var things = map.thingGrid.ThingsListAt(pos);
+            foreach (Thing t in things)
+            {
+                if (IsIED(t.def))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }*/
+
+        private static bool IsIED(ThingDef def)
+        {
+            // Check if def inherits TrapIEDBase
+            if (def.defName.StartsWith("TrapIED_"))
+            {
+                return true;
+            }
+            return false;
         }
 
         // Your tile picking logic here, simplified example based on your description
@@ -105,7 +139,14 @@ namespace TripWireAttempt2
         private static bool ShouldDrawOverlay()
         {
             var designator = Find.DesignatorManager?.SelectedDesignator;
-            return designator is Designator_Build build && build.PlacingDef?.defName == "TripWire";
+
+            if (designator is Designator_Build build)
+            {
+                string defName = build.PlacingDef?.defName;
+                return defName == "TripWire" || defName?.StartsWith("TrapIED_") == true;
+
+            }
+            return false;
         }
     }
 }
