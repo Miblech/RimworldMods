@@ -55,6 +55,9 @@
   <ItemGroup>
     <Compile Include="CartridgeTrap\Building_CartridgeTrap.cs" />
     <Compile Include="RockTraps\Building_BoulderTrap.cs" />
+    <Compile Include="RockTraps\Building_LandSlideTrap.cs" />
+    <Compile Include="RockTraps\PlaceWorker_LandslideTrapOnlyOnNaturalRock.cs" />
+    <Compile Include="RockTraps\TrapUtils.cs" />
     <Compile Include="TripWire\ModExtension_TransmitterOverlay.cs" />
     <Compile Include="TripWire\OverlayPatch.cs" />
     <Compile Include="TripWire\Patch_CanPlaceBlueprintAt.cs" />
